@@ -1,0 +1,22 @@
+{
+  "name": "zku-background",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinetlee/zku-background.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinetlee/zku-background/issues"
+  },
+  "homepage": "https://github.com/martinetlee/zku-background#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
